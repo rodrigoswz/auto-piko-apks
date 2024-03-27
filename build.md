@@ -7,6 +7,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.5.0-all.jar  
-Integrations: crimera/revanced-integrations-1.7.0.apk  
+Integrations: crimera/revanced-integrations-1.8.0.apk  
 Patches: crimera/revanced-patches-1.16.0.jar  
 [Changelog](https://github.com/crimera/piko/releases/tag/v1.16.0)  
