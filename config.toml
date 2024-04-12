@@ -3,5 +3,4 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 patches-source = "crimera/piko"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "crimera ReVanced"
-included-patches = "'Hide Banner' 'Hide Live Threads' 'Disable chirp font' 'Hide Community Notes' 'Hide FAB' 'Hide FAB Menu Buttons'"
 
