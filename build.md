@@ -1,9 +1,5 @@
 Twitter: 10.35.0-release.0  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach Twitter from Play Store  
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
